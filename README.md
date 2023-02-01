@@ -1,6 +1,6 @@
-# Unhinted-iosevka-term-ss14 WebFont 17.1.0
+# Unhinted Iosevka Term SS14 WebFont 17.1.0
 
 ## How to use
 
-- Add `<link href="https://iosevkawebfonts.github.io/Unhinted-iosevka-term-ss14/Unhinted-iosevka-term-ss14.css" rel="stylesheet" />` to your `<head>`.
-- Use `fontFamily: 'Unhinted iosevka term ss14 Web'` or `font-family: 'Unhinted iosevka term ss14 Web'`.
+- Add `<link href="https://iosevka-webfonts.github.io/unhinted-iosevka-term-ss14/unhinted-iosevka-term-ss14.css" rel="stylesheet" />` to your `<head>`.
+- Use `fontFamily: 'Iosevka Term SS14 Web'` or `font-family: 'Iosevka Term SS14 Web'`.
